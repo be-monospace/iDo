@@ -42,6 +42,23 @@
         }
       },
       "type": "border"
+    },
+    "bumble-border": {
+      "value": {
+        "color": {
+          "type": "color",
+          "value": "{color.palette.orange.orange-700.value}"
+        },
+        "width": {
+          "type": "measure",
+          "value": "{measure.s.value}"
+        },
+        "position": {
+          "type": "string",
+          "value": "Inside"
+        }
+      },
+      "type": "border"
     }
   }
 }
