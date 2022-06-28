@@ -1,0 +1,21 @@
+{
+  "border": {
+    "btn-sm": {
+      "value": {
+        "color": {
+          "type": "color",
+          "value": "{color.palette.green.green-1000.value}"
+        },
+        "width": {
+          "type": "measure",
+          "value": "{measure.xs.value}"
+        },
+        "position": {
+          "type": "string",
+          "value": "Inside"
+        }
+      },
+      "type": "border"
+    }
+  }
+}
