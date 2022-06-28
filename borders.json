@@ -16,6 +16,32 @@
         }
       },
       "type": "border"
+    },
+    "img-brd": {
+      "value": {
+        "color": {
+          "type": "color",
+          "value": "{color.palette.blue.blue-400.value}"
+        },
+        "width": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 1
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "position": {
+          "type": "string",
+          "value": "Inside"
+        }
+      },
+      "type": "border"
     }
   }
 }
