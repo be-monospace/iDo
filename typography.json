@@ -863,6 +863,65 @@
         }
       },
       "type": "typography"
+    },
+    "robito": {
+      "value": {
+        "font": {
+          "type": "font",
+          "value": {
+            "family": {
+              "type": "string",
+              "value": "Roboto"
+            },
+            "subfamily": {
+              "type": "string",
+              "value": "Black"
+            }
+          }
+        },
+        "fontSize": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 12
+            },
+            "unit": {
+              "type": "string",
+              "value": "points"
+            }
+          }
+        },
+        "textDecoration": "None",
+        "textCase": "Original",
+        "letterSpacing": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "percent"
+            }
+          }
+        },
+        "paragraphIndent": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        }
+      },
+      "type": "typography"
     }
   }
 }
