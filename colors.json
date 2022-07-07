@@ -717,6 +717,14 @@
           "type": "color"
         }
       }
+    },
+    "teste-cori": {
+      "value": "#ff0000ff",
+      "type": "color"
+    },
+    "teste-coriroro": {
+      "value": "#842424ff",
+      "type": "color"
     }
   }
 }
