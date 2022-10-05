@@ -710,7 +710,8 @@
         },
         "sale30-background": {
           "value": "#58c1b2ff",
-          "type": "color"
+          "type": "color",
+          "comment": "Some test description"
         },
         "sale-color": {
           "value": "#ffffffff",
