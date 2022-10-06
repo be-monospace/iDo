@@ -719,11 +719,11 @@
         }
       }
     },
-    "teste-cori": {
+    "vermelho": {
       "value": "#ff0000ff",
       "type": "color"
     },
-    "teste-coriroro": {
+    "sangue": {
       "value": "#842424ff",
       "type": "color"
     }
