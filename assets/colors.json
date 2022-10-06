@@ -119,11 +119,13 @@
         },
         "aqua-800": {
           "value": "#316c82ff",
-          "type": "color"
+          "type": "color",
+          "comment": "Aqua with an amazing text-on-white contrast (AAA)"
         },
         "aqua-700": {
           "value": "#3a8396ff",
-          "type": "color"
+          "type": "color",
+          "comment": "Aqua with good-enough text-on-white contrast (AA)"
         },
         "aqua-600": {
           "value": "#4295abff",
