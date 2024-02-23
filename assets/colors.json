@@ -21,24 +21,6 @@
       }
     },
     "semantic": {
-      "error": {
-        "error-color": {
-          "value": "#b6403bff",
-          "type": "color"
-        },
-        "error-icon": {
-          "value": "#b6403bff",
-          "type": "color"
-        },
-        "error-border": {
-          "value": "#ef8674ff",
-          "type": "color"
-        },
-        "error-background": {
-          "value": "#f8d7d3ff",
-          "type": "color"
-        }
-      },
       "text": {
         "text-inverse": {
           "value": "#ffffffff",
@@ -108,6 +90,24 @@
         },
         "warning-background": {
           "value": "#fbeed1ff",
+          "type": "color"
+        }
+      },
+      "error": {
+        "error-color": {
+          "value": "#b6403bff",
+          "type": "color"
+        },
+        "error-icon": {
+          "value": "#b6403bff",
+          "type": "color"
+        },
+        "error-border": {
+          "value": "#ef8674ff",
+          "type": "color"
+        },
+        "error-background": {
+          "value": "#f8d7d3ff",
           "type": "color"
         }
       },
@@ -566,60 +566,6 @@
           "type": "color"
         }
       },
-      "aqua": {
-        "aqua-1100": {
-          "value": "#0b2737ff",
-          "type": "color",
-          "comment": "Darkest aqua there is"
-        },
-        "aqua-1000": {
-          "value": "#193c4dff",
-          "type": "color",
-          "comment": "Slightly less aquatic, still deep as an ocean"
-        },
-        "aqua-900": {
-          "value": "#265d71ff",
-          "type": "color"
-        },
-        "aqua-800": {
-          "value": "#316c82ff",
-          "type": "color",
-          "comment": "Aqua with an amazing text-on-white contrast (AAA)"
-        },
-        "aqua-700": {
-          "value": "#3a8396ff",
-          "type": "color",
-          "comment": "Aqua with good-enough text-on-white contrast (AA)"
-        },
-        "aqua-600": {
-          "value": "#4295abff",
-          "type": "color"
-        },
-        "aqua-500": {
-          "value": "#54b5cbff",
-          "type": "color"
-        },
-        "aqua-400": {
-          "value": "#6ad3dfff",
-          "type": "color"
-        },
-        "aqua-300": {
-          "value": "#91e2e1ff",
-          "type": "color"
-        },
-        "aqua-200": {
-          "value": "#b5f0f1ff",
-          "type": "color"
-        },
-        "aqua-100": {
-          "value": "#d0f7f8ff",
-          "type": "color"
-        },
-        "aqua-0": {
-          "value": "#e0fbfbff",
-          "type": "color"
-        }
-      },
       "orange": {
         "orange-1100": {
           "value": "#2a140fff",
@@ -718,6 +664,60 @@
         },
         "green-0": {
           "value": "#eef9ecff",
+          "type": "color"
+        }
+      },
+      "aqua": {
+        "aqua-1100": {
+          "value": "#0b2737ff",
+          "type": "color",
+          "comment": "Darkest aqua there is"
+        },
+        "aqua-1000": {
+          "value": "#193c4dff",
+          "type": "color",
+          "comment": "Slightly less aquatic, still deep as an ocean"
+        },
+        "aqua-900": {
+          "value": "#265d71ff",
+          "type": "color"
+        },
+        "aqua-800": {
+          "value": "#316c82ff",
+          "type": "color",
+          "comment": "Aqua with an amazing text-on-white contrast (AAA)"
+        },
+        "aqua-700": {
+          "value": "#3a8396ff",
+          "type": "color",
+          "comment": "Aqua with good-enough text-on-white contrast (AA)"
+        },
+        "aqua-600": {
+          "value": "#4295abff",
+          "type": "color"
+        },
+        "aqua-500": {
+          "value": "#54b5cbff",
+          "type": "color"
+        },
+        "aqua-400": {
+          "value": "#6ad3dfff",
+          "type": "color"
+        },
+        "aqua-300": {
+          "value": "#91e2e1ff",
+          "type": "color"
+        },
+        "aqua-200": {
+          "value": "#b5f0f1ff",
+          "type": "color"
+        },
+        "aqua-100": {
+          "value": "#d0f7f8ff",
+          "type": "color"
+        },
+        "aqua-0": {
+          "value": "#e0fbfbff",
           "type": "color"
         }
       }
