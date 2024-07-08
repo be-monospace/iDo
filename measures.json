@@ -1,69 +1,302 @@
 {
   "measure": {
-    "xxs": {
-      "value": {
-        "measure": {
-          "type": "size",
-          "value": 2
+    "dimension": {
+      "border-radius": {
+        "none": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure",
+          "comment": "No radius"
         },
-        "unit": {
-          "type": "string",
-          "value": "pixels"
+        "small": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 3
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "default": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 5
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "medium": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 8
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "large": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 12
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "full": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 999
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure",
+          "comment": "Essentially a circle"
         }
       },
-      "type": "measure"
+      "spacing": {
+        "0": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "2": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 2
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "4": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 4
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "8": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 8
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "12": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 12
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "16": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 16
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "20": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 20
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "24": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 24
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "28": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 28
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "32": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 32
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "36": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 36
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "40": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 40
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        },
+        "semantic": {
+          "stack-gap": {
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 1
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            },
+            "type": "measure"
+          }
+        }
+      },
+      "opacity": {
+        "disabled": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 50
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        }
+      },
+      "shadow": {
+        "focus-ring-width": {
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 3
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          },
+          "type": "measure"
+        }
+      }
     },
-    "xs": {
-      "value": {
-        "measure": {
-          "type": "size",
-          "value": 4
-        },
-        "unit": {
-          "type": "string",
-          "value": "pixels"
-        }
-      },
-      "type": "measure"
-    },
-    "s": {
-      "value": {
-        "measure": {
-          "type": "size",
-          "value": 8
-        },
-        "unit": {
-          "type": "string",
-          "value": "pixels"
-        }
-      },
-      "type": "measure"
-    },
-    "m": {
-      "value": {
-        "measure": {
-          "type": "size",
-          "value": 16
-        },
-        "unit": {
-          "type": "string",
-          "value": "pixels"
-        }
-      },
-      "type": "measure"
-    },
-    "l": {
-      "value": {
-        "measure": {
-          "type": "size",
-          "value": 24
-        },
-        "unit": {
-          "type": "string",
-          "value": "pixels"
-        }
-      },
-      "type": "measure"
-    }
+    "opacity": {},
+    "size": {},
+    "space": {},
+    "font-size": {},
+    "line-height": {},
+    "letter-spacing": {},
+    "paragraph-spacing": {},
+    "border-width": {},
+    "border-radius": {},
+    "duration": {},
+    "z-index": {}
   }
 }

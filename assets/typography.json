@@ -1,12 +1,49 @@
 {
-  "shadow": {
-    "raised": {
+  "typography": {
+    "h1": {
       "value": {
-        "color": {
-          "type": "color",
-          "value": "#14171f0f"
+        "font": {
+          "type": "font",
+          "value": {
+            "family": {
+              "type": "string",
+              "value": "Inter"
+            },
+            "subfamily": {
+              "type": "string",
+              "value": "400"
+            }
+          }
         },
-        "x": {
+        "fontSize": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 57
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "textDecoration": "None",
+        "textCase": "Original",
+        "letterSpacing": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "percent"
+            }
+          }
+        },
+        "paragraphIndent": {
           "type": "measure",
           "value": {
             "measure": {
@@ -19,60 +56,66 @@
             }
           }
         },
-        "y": {
+        "lineHeight": {
           "type": "measure",
           "value": {
             "measure": {
               "type": "size",
-              "value": 1
+              "value": 64
             },
             "unit": {
               "type": "string",
               "value": "pixels"
             }
           }
-        },
-        "radius": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 3
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "spread": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": -1
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "opacity": {
-          "type": "size",
-          "value": 0.05999999865889549
         }
       },
-      "type": "shadow",
-      "comment": "Use for actionable elements, such as buttons, etc."
+      "type": "typography"
     },
-    "raised-2": {
+    "h2": {
       "value": {
-        "color": {
-          "type": "color",
-          "value": "#14171f1a"
+        "font": {
+          "type": "font",
+          "value": {
+            "family": {
+              "type": "string",
+              "value": "Inter"
+            },
+            "subfamily": {
+              "type": "string",
+              "value": "400"
+            }
+          }
         },
-        "x": {
+        "fontSize": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 43
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "textDecoration": "None",
+        "textCase": "Original",
+        "letterSpacing": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "percent"
+            }
+          }
+        },
+        "paragraphIndent": {
           "type": "measure",
           "value": {
             "measure": {
@@ -85,60 +128,66 @@
             }
           }
         },
-        "y": {
+        "lineHeight": {
           "type": "measure",
           "value": {
             "measure": {
               "type": "size",
-              "value": 2
+              "value": 50
             },
             "unit": {
               "type": "string",
               "value": "pixels"
             }
           }
-        },
-        "radius": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 3
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "spread": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": -3
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "opacity": {
-          "type": "size",
-          "value": 0.1000000014901161
         }
       },
-      "type": "shadow",
-      "comment": "Use for actionable elements, such as buttons, etc."
+      "type": "typography"
     },
-    "overlay": {
+    "h3": {
       "value": {
-        "color": {
-          "type": "color",
-          "value": "#14171f12"
+        "font": {
+          "type": "font",
+          "value": {
+            "family": {
+              "type": "string",
+              "value": "Inter"
+            },
+            "subfamily": {
+              "type": "string",
+              "value": "400"
+            }
+          }
         },
-        "x": {
+        "fontSize": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 32
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "textDecoration": "None",
+        "textCase": "Original",
+        "letterSpacing": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "percent"
+            }
+          }
+        },
+        "paragraphIndent": {
           "type": "measure",
           "value": {
             "measure": {
@@ -151,59 +200,66 @@
             }
           }
         },
-        "y": {
+        "lineHeight": {
           "type": "measure",
           "value": {
             "measure": {
               "type": "size",
-              "value": 15
+              "value": 40
             },
             "unit": {
               "type": "string",
               "value": "pixels"
             }
           }
-        },
-        "radius": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 25
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "spread": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "opacity": {
-          "type": "size",
-          "value": 0.07000000029802322
         }
       },
-      "type": "shadow"
+      "type": "typography"
     },
-    "overlay-2": {
+    "h4": {
       "value": {
-        "color": {
-          "type": "color",
-          "value": "#14171f0d"
+        "font": {
+          "type": "font",
+          "value": {
+            "family": {
+              "type": "string",
+              "value": "Inter"
+            },
+            "subfamily": {
+              "type": "string",
+              "value": "400"
+            }
+          }
         },
-        "x": {
+        "fontSize": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 24
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "textDecoration": "None",
+        "textCase": "Original",
+        "letterSpacing": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "percent"
+            }
+          }
+        },
+        "paragraphIndent": {
           "type": "measure",
           "value": {
             "measure": {
@@ -216,59 +272,66 @@
             }
           }
         },
-        "y": {
+        "lineHeight": {
           "type": "measure",
           "value": {
             "measure": {
               "type": "size",
-              "value": 5
+              "value": 32
             },
             "unit": {
               "type": "string",
               "value": "pixels"
             }
           }
-        },
-        "radius": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 10
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "spread": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "opacity": {
-          "type": "size",
-          "value": 0.05000000074505806
         }
       },
-      "type": "shadow"
+      "type": "typography"
     },
-    "raised-reverse": {
+    "h5": {
       "value": {
-        "color": {
-          "type": "color",
-          "value": "#14171f1a"
+        "font": {
+          "type": "font",
+          "value": {
+            "family": {
+              "type": "string",
+              "value": "Inter"
+            },
+            "subfamily": {
+              "type": "string",
+              "value": "400"
+            }
+          }
         },
-        "x": {
+        "fontSize": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 21
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "textDecoration": "None",
+        "textCase": "Original",
+        "letterSpacing": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "percent"
+            }
+          }
+        },
+        "paragraphIndent": {
           "type": "measure",
           "value": {
             "measure": {
@@ -281,59 +344,66 @@
             }
           }
         },
-        "y": {
+        "lineHeight": {
           "type": "measure",
           "value": {
             "measure": {
               "type": "size",
-              "value": -1
+              "value": 29
             },
             "unit": {
               "type": "string",
               "value": "pixels"
             }
           }
-        },
-        "radius": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 2
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "spread": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": -1
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "opacity": {
-          "type": "size",
-          "value": 0.1000000014901161
         }
       },
-      "type": "shadow"
+      "type": "typography"
     },
-    "raised-reverse-2": {
+    "large-lead": {
       "value": {
-        "color": {
-          "type": "color",
-          "value": "#14171f1a"
+        "font": {
+          "type": "font",
+          "value": {
+            "family": {
+              "type": "string",
+              "value": "Inter"
+            },
+            "subfamily": {
+              "type": "string",
+              "value": "400"
+            }
+          }
         },
-        "x": {
+        "fontSize": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 24
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "textDecoration": "None",
+        "textCase": "Original",
+        "letterSpacing": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "percent"
+            }
+          }
+        },
+        "paragraphIndent": {
           "type": "measure",
           "value": {
             "measure": {
@@ -346,59 +416,66 @@
             }
           }
         },
-        "y": {
+        "lineHeight": {
           "type": "measure",
           "value": {
             "measure": {
               "type": "size",
-              "value": -2
+              "value": 32
             },
             "unit": {
               "type": "string",
               "value": "pixels"
             }
           }
-        },
-        "radius": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 3
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "spread": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "opacity": {
-          "type": "size",
-          "value": 0.1000000014901161
         }
       },
-      "type": "shadow"
+      "type": "typography"
     },
-    "overlay-reverse": {
+    "medium-lead": {
       "value": {
-        "color": {
-          "type": "color",
-          "value": "#14171f12"
+        "font": {
+          "type": "font",
+          "value": {
+            "family": {
+              "type": "string",
+              "value": "Inter"
+            },
+            "subfamily": {
+              "type": "string",
+              "value": "400"
+            }
+          }
         },
-        "x": {
+        "fontSize": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 21
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "textDecoration": "None",
+        "textCase": "Original",
+        "letterSpacing": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "percent"
+            }
+          }
+        },
+        "paragraphIndent": {
           "type": "measure",
           "value": {
             "measure": {
@@ -411,59 +488,66 @@
             }
           }
         },
-        "y": {
+        "lineHeight": {
           "type": "measure",
           "value": {
             "measure": {
               "type": "size",
-              "value": -15
+              "value": 29
             },
             "unit": {
               "type": "string",
               "value": "pixels"
             }
           }
-        },
-        "radius": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 25
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "spread": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "opacity": {
-          "type": "size",
-          "value": 0.07000000029802322
         }
       },
-      "type": "shadow"
+      "type": "typography"
     },
-    "overlay-reverse-2": {
+    "button-label": {
       "value": {
-        "color": {
-          "type": "color",
-          "value": "#14171f0d"
+        "font": {
+          "type": "font",
+          "value": {
+            "family": {
+              "type": "string",
+              "value": "Inter"
+            },
+            "subfamily": {
+              "type": "string",
+              "value": "400"
+            }
+          }
         },
-        "x": {
+        "fontSize": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 21
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "textDecoration": "None",
+        "textCase": "Original",
+        "letterSpacing": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "percent"
+            }
+          }
+        },
+        "paragraphIndent": {
           "type": "measure",
           "value": {
             "measure": {
@@ -476,64 +560,43 @@
             }
           }
         },
-        "y": {
+        "lineHeight": {
           "type": "measure",
           "value": {
             "measure": {
               "type": "size",
-              "value": -5
+              "value": 29
             },
             "unit": {
               "type": "string",
               "value": "pixels"
             }
           }
-        },
-        "radius": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 10
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "spread": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "opacity": {
-          "type": "size",
-          "value": 0.05000000074505806
         }
       },
-      "type": "shadow"
+      "type": "typography"
     },
-    "raised-side": {
+    "paragraph": {
       "value": {
-        "color": {
-          "type": "color",
-          "value": "#14171f1a"
+        "font": {
+          "type": "font",
+          "value": {
+            "family": {
+              "type": "string",
+              "value": "Inter"
+            },
+            "subfamily": {
+              "type": "string",
+              "value": "400"
+            }
+          }
         },
-        "x": {
+        "fontSize": {
           "type": "measure",
           "value": {
             "measure": {
               "type": "size",
-              "value": -2
+              "value": 18
             },
             "unit": {
               "type": "string",
@@ -541,7 +604,22 @@
             }
           }
         },
-        "y": {
+        "textDecoration": "None",
+        "textCase": "Original",
+        "letterSpacing": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "percent"
+            }
+          }
+        },
+        "paragraphIndent": {
           "type": "measure",
           "value": {
             "measure": {
@@ -554,51 +632,43 @@
             }
           }
         },
-        "radius": {
+        "lineHeight": {
           "type": "measure",
           "value": {
             "measure": {
               "type": "size",
-              "value": 3
+              "value": 26
             },
             "unit": {
               "type": "string",
               "value": "pixels"
             }
           }
-        },
-        "spread": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "opacity": {
-          "type": "size",
-          "value": 0.1000000014901161
         }
       },
-      "type": "shadow"
+      "type": "typography"
     },
-    "raised-side-2": {
+    "small-paragraph": {
       "value": {
-        "color": {
-          "type": "color",
-          "value": "#14171f1a"
+        "font": {
+          "type": "font",
+          "value": {
+            "family": {
+              "type": "string",
+              "value": "Inter"
+            },
+            "subfamily": {
+              "type": "string",
+              "value": "400"
+            }
+          }
         },
-        "x": {
+        "fontSize": {
           "type": "measure",
           "value": {
             "measure": {
               "type": "size",
-              "value": -1
+              "value": 16
             },
             "unit": {
               "type": "string",
@@ -606,7 +676,22 @@
             }
           }
         },
-        "y": {
+        "textDecoration": "None",
+        "textCase": "Original",
+        "letterSpacing": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "percent"
+            }
+          }
+        },
+        "paragraphIndent": {
           "type": "measure",
           "value": {
             "measure": {
@@ -619,51 +704,43 @@
             }
           }
         },
-        "radius": {
+        "lineHeight": {
           "type": "measure",
           "value": {
             "measure": {
               "type": "size",
-              "value": 2
+              "value": 24
             },
             "unit": {
               "type": "string",
               "value": "pixels"
             }
           }
-        },
-        "spread": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": -1
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "opacity": {
-          "type": "size",
-          "value": 0.1000000014901161
         }
       },
-      "type": "shadow"
+      "type": "typography"
     },
-    "overlay-side": {
+    "tiny-paragraph": {
       "value": {
-        "color": {
-          "type": "color",
-          "value": "#14171f0d"
+        "font": {
+          "type": "font",
+          "value": {
+            "family": {
+              "type": "string",
+              "value": "Inter"
+            },
+            "subfamily": {
+              "type": "string",
+              "value": "400"
+            }
+          }
         },
-        "x": {
+        "fontSize": {
           "type": "measure",
           "value": {
             "measure": {
               "type": "size",
-              "value": -5
+              "value": 12
             },
             "unit": {
               "type": "string",
@@ -671,7 +748,22 @@
             }
           }
         },
-        "y": {
+        "textDecoration": "None",
+        "textCase": "Original",
+        "letterSpacing": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "percent"
+            }
+          }
+        },
+        "paragraphIndent": {
           "type": "measure",
           "value": {
             "measure": {
@@ -684,363 +776,21 @@
             }
           }
         },
-        "radius": {
+        "lineHeight": {
           "type": "measure",
           "value": {
             "measure": {
               "type": "size",
-              "value": 10
+              "value": 24
             },
             "unit": {
               "type": "string",
               "value": "pixels"
             }
           }
-        },
-        "spread": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "opacity": {
-          "type": "size",
-          "value": 0.05000000074505806
         }
       },
-      "type": "shadow"
-    },
-    "overlay-side-2": {
-      "value": {
-        "color": {
-          "type": "color",
-          "value": "#14171f12"
-        },
-        "x": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": -15
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "y": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "radius": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 25
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "spread": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "opacity": {
-          "type": "size",
-          "value": 0.07000000029802322
-        }
-      },
-      "type": "shadow"
-    },
-    "focus-ring": {
-      "value": {
-        "color": {
-          "type": "color",
-          "value": "#4589ffff"
-        },
-        "x": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "y": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "radius": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "spread": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 3
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "opacity": {
-          "type": "size",
-          "value": 1
-        }
-      },
-      "type": "shadow"
-    },
-    "focus-ring-2": {
-      "value": {
-        "color": {
-          "type": "color",
-          "value": "#ffffffff"
-        },
-        "x": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "y": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "radius": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "spread": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 1
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "opacity": {
-          "type": "size",
-          "value": 1
-        }
-      },
-      "type": "shadow"
-    },
-    "focus-ring-faded": {
-      "value": {
-        "color": {
-          "type": "color",
-          "value": "#d0e2ffff"
-        },
-        "x": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "y": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "radius": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "spread": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 3
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "opacity": {
-          "type": "size",
-          "value": 1
-        }
-      },
-      "type": "shadow"
-    },
-    "focus-ring-faded-2": {
-      "value": {
-        "color": {
-          "type": "color",
-          "value": "#ffffffff"
-        },
-        "x": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "y": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "radius": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 0
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "spread": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 1
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "opacity": {
-          "type": "size",
-          "value": 1
-        }
-      },
-      "type": "shadow"
+      "type": "typography"
     }
   }
 }
